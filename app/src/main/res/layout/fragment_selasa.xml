@@ -1,0 +1,20 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="id.sch.smktelkom_mlg.project2.xirpl506101216.duetomorrow.SelasaFragment">
+
+        <!-- TODO: Update blank fragment layout -->
+        <TextView
+            android:id="@+id/anything"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:text="Selasa" />
+
+    </LinearLayout>
+</ScrollView>

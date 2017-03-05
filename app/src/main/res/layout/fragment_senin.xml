@@ -1,0 +1,162 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        tools:context="id.sch.smktelkom_mlg.project2.xirpl506101216.duetomorrow.SeninFragment">
+
+        <!-- TODO: Update blank fragment layout -->
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="casual"
+            android:text="SENIN"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="36sp" />
+
+        <TextView
+            android:id="@+id/seninsatu"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/senindua"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/senintiga"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/seninempat"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/seninlima"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/seninenam"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/senintujuh"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/senindelapan"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/seninsembilan"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/seninsepuluh"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/seninsebelas"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <TextView
+            android:id="@+id/seninduabelas"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="24sp"
+            tools:background="@android:color/background_dark" />
+
+        <RadioButton
+            android:id="@+id/bsenin12"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <Button
+            android:id="@+id/buttonOksenin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:elevation="0dp"
+            tools:text="OK" />
+
+
+    </LinearLayout>
+</ScrollView>
