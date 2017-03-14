@@ -13,7 +13,6 @@ import android.view.ViewGroup;
  */
 public class JadwalFragment extends Fragment {
 
-
     public JadwalFragment() {
         // Required empty public constructor
     }

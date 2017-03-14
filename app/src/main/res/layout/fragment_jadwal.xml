@@ -8,40 +8,62 @@
     <!-- TODO: Update blank fragment layout -->
 
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Tekan button untuk mengubah jadwal anda" />
+
     <Button
         android:id="@+id/buttonsnn"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
         android:text="Senin" />
 
     <Button
         android:id="@+id/buttonsls"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
         android:text="Selasa" />
 
     <Button
         android:id="@+id/buttonrb"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
         android:text="Rabu" />
 
     <Button
         android:id="@+id/buttonkms"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
         android:text="Kamis" />
 
     <Button
         android:id="@+id/buttonjmt"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
         android:text="Jumat" />
 
     <Button
         android:id="@+id/buttonsbt"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
         android:text="Sabtu" />
 
     <TextView
@@ -51,9 +73,4 @@
         android:clickable="false"
         tools:clickable="false" />
 
-    <Button
-        android:id="@+id/buttonok"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:text="OK" />
 </LinearLayout>
