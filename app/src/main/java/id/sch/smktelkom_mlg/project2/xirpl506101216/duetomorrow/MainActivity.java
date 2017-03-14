@@ -71,11 +71,14 @@ public class MainActivity extends AppCompatActivity
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
         // Handle navigation view item clicks here.
+
+
         int id = item.getItemId();
 
         changePage(id);
-
         return true;
+
+
     }
 
     private void changePage(int id) {

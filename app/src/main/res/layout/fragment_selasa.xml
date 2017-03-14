@@ -11,7 +11,7 @@
 
         <!-- TODO: Update blank fragment layout -->
         <TextView
-            android:id="@+id/textView2"
+            android:id="@+id/selasa"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -21,7 +21,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView16"
+            android:id="@+id/selasa1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -30,7 +30,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView15"
+            android:id="@+id/selasa2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -39,7 +39,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView14"
+            android:id="@+id/selasa3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -48,7 +48,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView13"
+            android:id="@+id/selasa4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -57,7 +57,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView12"
+            android:id="@+id/selasa5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -66,7 +66,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView11"
+            android:id="@+id/selasa6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -75,7 +75,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView10"
+            android:id="@+id/selasa7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -84,7 +84,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView9"
+            android:id="@+id/selasa8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -93,7 +93,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView8"
+            android:id="@+id/selasa9"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -102,7 +102,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView7"
+            android:id="@+id/selasa10"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -111,7 +111,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/selasa11"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -120,7 +120,7 @@
             android:textSize="36sp" />
 
         <TextView
-            android:id="@+id/textView5"
+            android:id="@+id/selasa12"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="casual"
@@ -129,16 +129,16 @@
             android:textSize="36sp" />
 
         <CheckBox
-            android:id="@+id/checkBox"
+            android:id="@+id/set2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Set Alarm" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/buttonOK2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="OK" />
 
 
     </LinearLayout>
